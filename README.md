@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # blendertothree
 
 "How To Export 3D Models With Their Animation From Blender And Import Them Into Your Three.js App" YouTube tutorial project files https://youtu.be/ajaduDDePIY
@@ -8,3 +9,6 @@
 4. Run Parcel by typing this command: npm parcel ./src/index.html
 5. Ctrl + left click on the address generated in the command line. Or open your browser and copy paste this address http://localhost:1234
 6. Have fun! :D
+=======
+# threejs-blender-animations
+>>>>>>> ea677ef3845bdf4d6b80dff1eca699a3eedfcd1a
