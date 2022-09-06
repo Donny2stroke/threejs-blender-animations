@@ -1,0 +1,21 @@
+{
+  "name": "blendertothree",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html",
+    "heroku-postbuild" : "parcel build ./src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.7.0",
+    "three": "^0.133.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-rc.0"
+  }
+}
